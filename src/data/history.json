@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Linux Server Admin",
+    "organisation": "Clado Solutions",
+    "startDate": "March, 2024",
+    "endDate": "April, 2024",
+    "experiences": ["Worked on Linux Servers", "Reduced load times by 50%"],
+    "imageSrc": "history/linux.png"
+  },
+  {
+    "role": "Python Developer ",
+    "organisation": "CamerinFolks Pvt Ltd",
+    "startDate": "Sept, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": ["Designed an ecommerce project", "Learned entire python django framework"],
+    "imageSrc": "history/python.png"
+  },
+  {
+    "role": "Tata Cybersecurity Analyst",
+    "organisation": "TCS",
+    "startDate": "Feb, 2024",
+    "endDate": "March, 2024",
+    "experiences": [
+      "Worked on IAM Management",
+      "Learned IAM principles and services"
+    ],
+    "imageSrc": "history/cybersecurity.png"
+  }
+]

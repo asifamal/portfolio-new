@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Shopify - An Ecommerce App",
+    "imageSrc": "projects/ecommerce.jpg",
+    "description": "Designed and developed an e commerce platform called Shopify and contains features like Registration,Login,Password reset and Email verification.",
+    "skills": ["Python", "Django", "Postgresql"],
+    "source": "https://github.com/asifamal/shopify-django-project"
+  },
+  {
+    "title": "Dockerized Django Application",
+    "imageSrc": "projects/docker.png",
+    "description": "Developed a Django web application and containerized it using Docker for seamless deployment and scalability. Click link for more details about it.",
+    "skills": ["Docker", "Django", "Python", "SQL"],
+    "source": "https://github.com/asifamal?tab=repositories"
+  },
+  {
+    "title": "CI/CD using Jenkins",
+    "imageSrc": "projects/jenkins.jpg",
+    "description": "Automated CI/CD for a Java portfolio website, utilizing Maven for build tasks and SonarQube for code quality checks. Argo CD and Helm manage Kubernetes deployments. Check link for more.",
+    "skills": ["Git", "Ansible", "Jenkins"],
+    "source": "https://github.com/asifamal/-End-to-End-CI-CD-Implementation-using-Jenkins"
+  }
+]
